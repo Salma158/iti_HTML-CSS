@@ -1,0 +1,8 @@
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
+p{
+    font-size: 20px;
+    background-color: rgb(227, 127, 127);
+}

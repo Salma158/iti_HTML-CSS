@@ -1,0 +1,35 @@
+*{
+    margin-left: 0;
+    padding: 0;
+}
+button{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(10,102,194);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 100px;
+}
+input{
+    width: 520px;
+    height: 40px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+#email{
+    color: rgb(113, 113, 113);
+    font-size: 25px;
+    margin-bottom: 5px;
+    display: block;
+}
+#agree{
+    color: rgb(113, 113, 113);
+    font-size: 18px;
+}
+form{
+    margin-left: 15px;
+}

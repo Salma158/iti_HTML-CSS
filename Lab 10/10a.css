@@ -1,0 +1,12 @@
+.grid{
+    display: grid;  
+    width: 275px;
+    height: 70px;
+    grid-template-columns: 200px 75px ;
+}
+.item-1{
+    background-color: rgb(134, 212, 205);
+}
+.item-2{
+    background-color: rgb(215, 125, 125);
+}

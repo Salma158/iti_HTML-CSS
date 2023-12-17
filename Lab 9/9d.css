@@ -1,0 +1,17 @@
+p{
+    font-size: 20px;
+}
+
+#p1{
+color: white;
+font-weight: bold;
+}
+#p2{
+color: grey;
+}
+
+div{
+    background-color: rgb(42, 41, 41);
+    width: 425px;
+    padding: 20px;
+}

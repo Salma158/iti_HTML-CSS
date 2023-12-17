@@ -1,0 +1,12 @@
+.grid{
+    display: flex;
+}
+#p1{
+    background-color: rgb(74, 139, 201);
+    width: 200px;
+}
+
+#p2{
+    background-color: rgb(230, 116, 116);
+    width: 75px;
+}

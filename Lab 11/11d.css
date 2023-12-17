@@ -1,0 +1,17 @@
+.grid{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid grey;
+}
+p{
+    font-size: 30px;
+    background-color: rgb(227, 127, 127);
+    width: 150px;
+}
+*{
+    margin:0;
+    padding:0;
+}

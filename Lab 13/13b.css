@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.inside{
+    background-color: green;
+    height: 100vh;
+    color:white;
+    width: 200px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

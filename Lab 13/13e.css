@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    margin-left: 10%;
+    gap :60%;
+}
+button{
+    width: 150px;
+    height:80px;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+#btn1{
+    background-color: rgb(48, 48, 228);
+}
+
+#btn2{
+    background-color: rgb(216, 215, 215);
+}
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.logo{
+    display: flex;
+    gap:20px;
+}

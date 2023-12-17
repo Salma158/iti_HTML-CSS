@@ -1,0 +1,31 @@
+form{
+    margin: 30px;
+}
+img{
+    border-radius: 50%;
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+}
+input{
+    color: rgb(80, 79, 79);
+    border: none;
+    font-size: 30px;
+    width: 350px;
+}
+button{
+    background-color: rgb(29 161 242);
+    color: white;
+    font-weight: bold;
+    font-size: 23px;
+    width: 120px;
+    height: 60px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+form * {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+}

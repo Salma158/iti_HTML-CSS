@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    height: 100px;;
+}
+
+.container-1{
+    width:100px;
+    background-color: pink;
+}
+
+.container-2{
+    width:200px;
+    background-color: lightskyblue;
+}
+.container-2-2{
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    background-color: black;
+    color: white;
+}
